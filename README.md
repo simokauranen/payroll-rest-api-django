@@ -17,15 +17,12 @@ The actual installation is at the moment under construction as Apache implementa
 ## Usage/testing
 
 The solution contains sqlite3 database with prepopulated user/employee data.
-The prepopulated credentials:
+The prepopulated credentials (don't worry, these are only for testing):
 
-admin: 876t&&%FFBuu9786_v  (for the admin panel)  
-max: 78TyVBFESki=_KLH463  
-(regular User/Employee: rights to see his/her own employee info)  
-maxine: lkj9573SD_?/&%  
-(regular User/Employee: rights to see his/her own employee info)  
-api_superuser: 987TYR#%&fjhR  
-(Member of Staff: rights to see all employees' info & change salary)
+`admin: 876t&&%FFBuu9786_v`  (for the admin panel)  
+`max: 78TyVBFESki=_KLH463`  (regular User/Employee: rights to see his/her own employee info)  
+`maxine: lkj9573SD_?/&%` (regular User/Employee: rights to see his/her own employee info)  
+`api_superuser: 987TYR#%&fjhR` (Member of Staff: rights to see all employees' info & change salary)
 
 
 ### Django Admin site
