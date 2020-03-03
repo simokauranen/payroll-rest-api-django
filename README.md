@@ -2,7 +2,7 @@
 
 In this project I have created simple REST API (djangorestframework) interface to query employee's salary information, and for staff member to see all employees' info and to change salary for chosen person. The aim has been to configure the authentication framework (JWT Token, djangorestframework-simplejwt) and Django as secure as possible according to OWASP 10 list. 
 
-The actual installation is at the moment under construction as Apache implementation in virtual Ubuntu server with HTTPS and MariaDB; the enclosed package contains only localhost implementation with Django development server. That is why the enclosed code has some less secure configurations. See details in chapter *Implemented security features*.
+The actual installation has been done as Apache implementation in Ubuntu server with HTTPS and MariaDB; the enclosed package contains only localhost implementation with Django development server. That is why the enclosed code has some less secure configurations. See details in chapter *Implemented security features*.
 
 ## Installation
 
